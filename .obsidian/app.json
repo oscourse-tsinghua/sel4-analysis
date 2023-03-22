@@ -1,1 +1,6 @@
-{}
+{
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

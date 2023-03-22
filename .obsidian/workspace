@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b24001886b30d78b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9643b6a2c3102912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码走读/seL4在RISC-V平台下的启动流程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b889ce77ab2cd7ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码走读/seL4在RISC-V平台下的启动流程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "869b3092f22c1380",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "manjaro/manjaro kde 配置.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
     "direction": "vertical"
@@ -50,9 +31,7 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "state": {}
             }
           },
           {
@@ -82,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 389.5
   },
   "right": {
     "id": "0f2a5bc07ca1556d",
@@ -98,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码走读/seL4在RISC-V平台下的启动流程.md",
+                "file": "manjaro/manjaro kde 配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -115,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码走读/seL4在RISC-V平台下的启动流程.md",
+                "file": "manjaro/manjaro kde 配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "代码走读/seL4在RISC-V平台下的启动流程.md",
+                "file": "manjaro/manjaro kde 配置.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码走读/seL4在RISC-V平台下的启动流程.md"
+                "file": "manjaro/manjaro kde 配置.md"
               }
             }
           }
@@ -205,55 +184,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 328.73809814453125
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
-    }
-  },
-  "active": "b889ce77ab2cd7ca",
+  "active": "869b3092f22c1380",
   "lastOpenFiles": [
-    "代码走读/seL4test RISC-V下编译环境搭建（Qemu）.md",
-    "代码走读/seL4在RISC-V平台下的启动流程.md",
-    "image/seL4_riscv_bootstrap_cnode_cap.png",
-    "image/seL4_riscv_bootstrap_root_server_object.png",
-    "相关论文笔记/The Performance of μ-Kernel-Based Systems.md",
-    "相关论文笔记/On micro-kernel Construction.md",
-    "相关论文笔记/Kernel Design for Isolation and Assurance of Physical Memory.md",
-    "image/Pasted-image-20230301115105.png",
-    "论文笔记/Kernel Design for Isolation and Assurance of Physical Memory.md",
-    "image/Pasted-image-20221115105434.png",
-    "论文笔记/The Performance of μ-Kernel-Based Systems.md",
-    "image/Pasted-image-20221115111340.png",
-    "image/Pasted-image-20221020101914.png",
-    "论文笔记/On micro-kernel Construction.md",
-    "image/Pasted-image-20221103154625.png",
-    "论文笔记/Toward Real Microkernels.md",
-    "image/Pasted-image-20221103125242.png",
-    "rCore-N/共享调度器性能测试（5）.md",
-    "seL4/seL4 Tutorial/7. Interrupts.md",
-    "seL4/seL4 Tutorial/6. Notifications.md",
-    "seL4/seL4 Tutorial/5. IPC.md",
-    "seL4/seL4 Tutorial/4. Threads.md",
-    "seL4/seL4 Tutorial/3. Mapping.md",
-    "seL4/seL4 Tutorial/2. Untyped.md",
-    "seL4/seL4 Tutorial/1. Capabilities.md",
-    "seL4/seL4 Tutorial/1. Capabilities 1.md",
-    "seL4/seL4学习笔记——序.md",
-    "manjaro/manjaro kde 配置.md",
-    "rCore-N/共享调度器性能测试（2）.md",
-    "image/Pasted-image-20230306194042.png",
-    "image/Pasted-image-20230306194020.png",
-    "rCore-N/用户态中断处理例程优先级讨论.md",
-    "rCore-N/用户态定时器实验报告.md",
-    "论文笔记/The UNIX Time-Sharing System.md",
     "论文笔记/The Multikernel, A new OS architecturefor scalable multicore systems.md",
-    "论文笔记/NrOS, Effective Replication and Sharing in an Operating System.md"
+    "论文笔记/LegoOS, A Disseminated, Distributed OS for Hardware Resource Disaggregation.md",
+    "image/Pasted-image-20221006150042.png",
+    "image/Pasted-image-20221003144204.png",
+    "论文笔记/NrOS, Effective Replication and Sharing in an Operating System.md",
+    "dayList/2022-09-12.md",
+    "rCore-comp2022-实验报告/Lab1.md",
+    "rCore-Tutorial代码走读/ch7 进程间通信和IO重定向.md",
+    "rCore-Tutorial代码走读/ch3 多道程序和分时任务.md",
+    "rCore-Tutorial代码走读/ch2 批处理操作系统.md"
   ]
 }
